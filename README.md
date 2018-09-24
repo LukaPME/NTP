@@ -1,2 +1,2 @@
 # Digitalni-Sat
-Program za digitalni sat
+Program za digitalni sat sa hibridnim NTP protokolom
